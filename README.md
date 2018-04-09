@@ -1,4 +1,3 @@
-# ContactsScanner
-Built a Contact Scanner app that automates the process of managing business cards and stores the contact details in the contact list.
+# CardTech
+Built this app during the final semester of my undergrad study that automates the process of managing business cards and stores the contact details in the contact list. Used Tesseract OCR and leptonica image processing library to scan the card and get useful information from the image.
 
-To process the image of the business card taken by the user, I have used a tesseract-ocr library. I built this application in the swamp hacks 2017 held at the University of Florida.
